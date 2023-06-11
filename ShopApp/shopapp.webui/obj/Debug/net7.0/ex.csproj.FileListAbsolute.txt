@@ -1,0 +1,71 @@
+C:\Users\Metin Yıldız\proje\ex\obj\Debug\net7.0\ex.csproj.AssemblyReference.cache
+C:\Users\Metin Yıldız\proje\ex\obj\Debug\net7.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin Yıldız\proje\ex\obj\Debug\net7.0\ex.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\proje\ex\obj\Debug\net7.0\ex.AssemblyInfo.cs
+C:\Users\Metin Yıldız\proje\ex\obj\Debug\net7.0\ex.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\proje\ex\obj\Debug\net7.0\ex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Metin Yıldız\proje\ex\obj\Debug\net7.0\ex.RazorAssemblyInfo.cache
+C:\Users\Metin Yıldız\proje\ex\obj\Debug\net7.0\ex.RazorAssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\appsettings.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\global.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\package-lock.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\package.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\ex.staticwebassets.runtime.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\ex.exe
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\ex.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\ex.runtimeconfig.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\ex.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\ex.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\proje.data.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\proje.data.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\bin\Debug\net7.0\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.csproj.AssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.RazorAssemblyInfo.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.RazorAssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\staticwebassets\msbuild.ex.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\staticwebassets\msbuild.build.ex.props
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ex.props
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ex.props
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\scopedcss\bundle\ex.styles.css
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.csproj.CopyComplete
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\refint\ex.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ex.genruntimeconfig.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\ex\obj\Debug\net7.0\ref\ex.dll

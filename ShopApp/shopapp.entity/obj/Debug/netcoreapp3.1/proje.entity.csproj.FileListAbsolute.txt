@@ -1,0 +1,130 @@
+C:\Users\Metin Yıldız\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.AssemblyReference.cache
+C:\Users\Metin Yıldız\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin Yıldız\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\proje\proje.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\proje\proje.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\proje\proje.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.entity\obj\Debug\netcoreapp3.1\proje.entity.csprojAssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\E ticaret\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\E ticaret\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\E ticaret\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\E ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\E ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\E ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\E ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\E ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\E Ticaret\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\E Ticaret\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\E Ticaret\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\E Ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\E Ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\E Ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\E Ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\E Ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\E Ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.AssemblyReference.cache
+C:\Users\Metin Yıldız\E Ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\E Ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.AssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\E Ticaret\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\.Net Proje\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\.Net Proje\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\.Net Proje\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\.Net Proje\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\.Net Proje\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\.Net Proje\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\.Net Proje\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\.Net Proje\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\.Net Proje\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.AssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\.Net Proje\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Asp.Net Core\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Asp.Net Core\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Asp.Net Core\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Asp.Net Core\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Asp.Net Core\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Asp.Net Core\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Asp.Net Core\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Asp.Net Core\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Asp.Net Core\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csprojAssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Udemy\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Udemy\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Udemy\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Udemy\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csprojAssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Udemy\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Udemy\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Udemy\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Udemy\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Udemy\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csprojAssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Buisness\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Buisness\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Buisness\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Buisness\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csprojAssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Buisness\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Buisness\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Buisness\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Buisness\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Buisness\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csprojAssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Sadık Turan\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Sadık Turan\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Sadık Turan\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Sadık Turan\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Sadık Turan\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Sadık Turan\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Sadık Turan\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Sadık Turan\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\ShoppWebUi\proje\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csprojAssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\Sadık Turan\ShoppWebUi\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csprojAssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csprojAssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\shopapp.entity\bin\Debug\netcoreapp3.1\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csprojAssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\ShopApp\shopapp.entity\obj\Debug\netcoreapp3.1\proje.entity.pdb

@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\img\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\img\\slider1.png",
+      "PackagePath": "staticwebassets\\img\\slider1.png"
+    },
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\img\\slider2.png",
+      "PackagePath": "staticwebassets\\img\\slider2.png"
+    },
+    {
+      "Id": "C:\\Users\\Metin Yıldız\\OneDrive - klu.edu.tr\\Masaüstü\\proje\\ex\\wwwroot\\img\\slider3.png",
+      "PackagePath": "staticwebassets\\img\\slider3.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ex.props",
+      "PackagePath": "build\\ex.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ex.props",
+      "PackagePath": "buildMultiTargeting\\ex.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ex.props",
+      "PackagePath": "buildTransitive\\ex.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ex.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

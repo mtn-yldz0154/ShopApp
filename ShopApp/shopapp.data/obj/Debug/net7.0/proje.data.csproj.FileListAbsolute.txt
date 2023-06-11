@@ -1,0 +1,34 @@
+C:\Users\Metin Yıldız\proje\proje.data\bin\Debug\net7.0\proje.data.deps.json
+C:\Users\Metin Yıldız\proje\proje.data\bin\Debug\net7.0\proje.data.runtimeconfig.json
+C:\Users\Metin Yıldız\proje\proje.data\bin\Debug\net7.0\proje.data.dll
+C:\Users\Metin Yıldız\proje\proje.data\bin\Debug\net7.0\proje.data.pdb
+C:\Users\Metin Yıldız\proje\proje.data\bin\Debug\net7.0\proje.entity.dll
+C:\Users\Metin Yıldız\proje\proje.data\bin\Debug\net7.0\proje.entity.pdb
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\proje.data.csproj.AssemblyReference.cache
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\proje.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\proje.data.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\proje.data.AssemblyInfo.cs
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\proje.data.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\proje.data.csproj.CopyComplete
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\proje.data.dll
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\refint\proje.data.dll
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\proje.data.pdb
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\proje.data.genruntimeconfig.cache
+C:\Users\Metin Yıldız\proje\proje.data\obj\Debug\net7.0\ref\proje.data.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\bin\Debug\net7.0\proje.data.deps.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\bin\Debug\net7.0\proje.data.runtimeconfig.json
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\bin\Debug\net7.0\proje.data.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\bin\Debug\net7.0\proje.data.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\bin\Debug\net7.0\proje.entity.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\bin\Debug\net7.0\proje.entity.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\proje.data.csproj.AssemblyReference.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\proje.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\proje.data.AssemblyInfoInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\proje.data.AssemblyInfo.cs
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\proje.data.csproj.CoreCompileInputs.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\proje.data.csproj.CopyComplete
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\proje.data.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\refint\proje.data.dll
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\proje.data.pdb
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\proje.data.genruntimeconfig.cache
+C:\Users\Metin Yıldız\OneDrive - klu.edu.tr\Masaüstü\proje\proje.data\obj\Debug\net7.0\ref\proje.data.dll
